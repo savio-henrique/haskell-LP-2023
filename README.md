@@ -1,6 +1,7 @@
 # Programming Languages Class - Functional Programming (Haskell)
 
 > Professor: Vander Ramos Alves
+>
 > Class Code: CIC0093
 >
 > Student: Sávio Henrique Chaves Mendes
