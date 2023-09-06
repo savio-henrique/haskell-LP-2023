@@ -7,4 +7,3 @@
 > Student: Sávio Henrique Chaves Mendes
 ---
 This repository contains the exercises made in the Programming Languages Class at UnB (Universidade de Brasília) with the Functional Language Haskell.
- 
